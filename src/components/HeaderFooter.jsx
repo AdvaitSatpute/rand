@@ -7,7 +7,7 @@ export function Header() {
     return (
         <header className="bg-green-100 dark:bg-green-800 py-4">
             <div className="container mx-auto px-4 flex justify-between items-center">
-                <h1 className="text-2xl font-bold text-green-800 dark:text-green-100">EarthEcho</h1>
+                <h1 className="text-2xl font-bold text-green-800 dark:text-green-100">EarthEchoEcho</h1>
                 <ModeToggle />
             </div>
         </header>
